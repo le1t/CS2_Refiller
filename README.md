@@ -20,3 +20,5 @@ css_refiller_help - Показать справку
 css_refiller_settings - Показать настройки
 
 css_plugins reload CS2Refiller - Перезагрузить конфигурацию
+
+ЭТОТ ПЛАГИН ФОРК ЭТОГО ПЛАГИНА https://github.com/oscar-wos/Refiller
